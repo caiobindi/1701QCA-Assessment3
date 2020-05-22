@@ -129,6 +129,38 @@ Use subheadings to structure this information. See https://guides.github.com/fea
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
+## Getting the technology working ##
+
+![Image](hoop1.jpg)
+
+Figuring out how to work the IR sensor. After I got this working I had to start fabrication. 
+
+## Fabrication ##
+
+![Image](hoop2.jpg)
+
+![Image](hoop3.jpg)
+
+![Image](hoop4.jpg)
+
+The hole of the bin was too big for the sensor to pick up the paper ball, so I had to create a smaller hole.
+
+![Image](hoop5.jpg)
+
+![Image](hoop6.jpg)
+
+![Image](hoop7.jpg)
+
+![Image](hoop13.jpg)
+
+Creating the actual hoop.
+
+![Image](hoop9.jpg)
+
+![Image](hoop10.jpg)
+
+Putting everything together.
+
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
