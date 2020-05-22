@@ -23,6 +23,10 @@ The image should be inserted with code like that below where you replace the fil
 
 [![Image](hoop10.jpg)](https://youtu.be/TyU_pBofyWU)
 
+## Video ##
+
+(https://youtu.be/TyU_pBofyWU)
+
 ### Journal ###
 
 <!--- The following link will direct to your process and reflection journal, which will be held in the file `journal.md` in the folder called `journal`. This link should not be changed. --->
