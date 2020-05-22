@@ -174,6 +174,17 @@ I first had to decide on what I was going to create. I made this decision by lis
 
 ## Reflection ##
 
+I felt the most successful part of my project was using the IR sensor. It world exactly how I wanted it to and was very easy to get it working. 
+
+I felt like my fabrication could of done with some improving. It still looked like a prototype and not a final product.
+
+I found the information about sensors very useful. It gave me a good understanding on how it can be used.  It was also my motivation behind it.
+
+I feel like the part were the bin tells you when it is full is quite different to many projects I've seen. It allows project to interact with the user. The idea of incorporating a game with throwing rubbish in the bin I find is also very different.
+
+
+## Reflection ##
+
 <!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
 
 I felt the most successful part of my project was using the IR sensor. It world exactly how I wanted it to and was very easy to get it working. 
