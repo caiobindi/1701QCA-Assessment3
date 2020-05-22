@@ -188,4 +188,4 @@ What parts of your project do you feel are novel? This is IMPORTANT to help just
 
 I feel like the part were the bin tells you when it is full is quite different to many projects I've seen. It allows project to interact with the user. The idea of incorporating a game with throwing rubbish in the bin I find is also very different.
 
-What might be an interesting extension of this project? In what other contexts might this project be used? --->
+What might be an interesting extension of this project? In what other contexts might ths project be used? --->
