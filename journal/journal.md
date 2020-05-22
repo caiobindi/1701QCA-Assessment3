@@ -112,6 +112,9 @@ This project will be a game were the aim is to score as money points as possible
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
 
+When final design concept was a bin where you can throw paper in and once it is full it will alert you. My motivation behind this was that at first I wanted to just a mini basketball hoop game. I felt like that was too simple to I had to incorporate my own ideas. 
+
+
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
@@ -130,9 +133,12 @@ There will likely by a dozen or so images of the project under construction. The
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
+![Image](Capture.PNG)
+
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
+I first had to decide on what I was going to create. I made this decision by listing my interest and then focusing on one. This interest was basketball. I then I had to define on a specific idea, that is when I came up with the mini hoop game. This wasn't enough so I had to develop it into my own idea which was the bin hoop.
 
 ## Reflection ##
 
